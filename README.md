@@ -86,7 +86,6 @@ To follow steps, I have provied both the notebook and and sql script.
 
 ## Analyze and Share
 
-* [Tableau Workbook](https://public.tableau.com/views/BellabeatFitCaseStudy/Story1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## Conclusion
 Recommendations:
